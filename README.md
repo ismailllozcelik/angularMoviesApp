@@ -1,0 +1,2 @@
+# angularMoviesApp
+angular çalışmam 
